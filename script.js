@@ -1,5 +1,5 @@
 // Ganti bagian "YOUR_API_KEY" dengan API key Anda
-const apiKey = "85890ffa03f4a0576d10e9b0837c8c76"; 
+
 const apiUrl = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
 
 // Pilih semua elemen HTML yang akan kita manipulasi
